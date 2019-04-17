@@ -2,6 +2,6 @@ var playlist = {
   deadmau5: "strobe"
 };
 
-function updatePlaylist(playlist,artist,title){
-  playlist.[artist] =
+function updatePlaylist(playlist,artistName,songTitle){
+  playlist.[artistName] =
 }
