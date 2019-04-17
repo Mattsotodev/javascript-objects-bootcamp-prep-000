@@ -1,3 +1,3 @@
 var playlist = {
-  deadmau5: "strobe"
+  deadmau5: "strobe";
 }
